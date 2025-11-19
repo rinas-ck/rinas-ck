@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Rinas</h1>
-<h3 align="center">🚀 AWS & DevOps Learner | Cloud Enthusiast | B.Tech CSE Graduate (2025)</h3>
+<h3 align="center">🚀 AWS & DevOps Learner | Cloud Enthusiast | B.E CSE Graduate (2025)</h3>
 
 <p align="center">
   <img src="https://i.imgur.com/8MupZHY.gif" width="500"/>
